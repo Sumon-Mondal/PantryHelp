@@ -1,0 +1,40 @@
+# PantryHelp roadmap
+- [x] Design system, data, simulation, planner, save/share, PDF, AI explanation, sources page
+- [x] Statewide pantries, churches, meal sites (755 from 2 Feeding America food banks, 94 counties incl. SNAP/WIC/food banks)
+- [x] WIC clinics with addresses (136 of 158 placed)
+- [ ] Chapel Hill block groups with population — blocked: Census data service now requires a free API key
+- [ ] Pantries from the other 5 NC food banks (Metrolina, MANNA, Albemarle, Southeastern, Inter-Faith) — locators need logins/no export
+- [x] Full NC 3D map (county height = population, green = food help per resident)
+- [x] Flat map: whole NC shaded green, legend, "All of NC"
+- [x] Meals calculator page
+- [x] SNAP how-to-apply page, linked from SNAP offices
+- [x] Juice table, realistic produce, story flow
+- [x] Real Chapel Hill 3D (OSM buildings/streets/woods) on home + planner
+- [x] Live location (with permission) on home 3D, flat map, 3D map
+- [x] Outcome card next to the pin
+- [x] Clearer naming (plan name, section titles, plan code)
+- [x] 3D map: click a county to show its stats
+- [x] Click a food place: smooth pop-up card with hours, address, phone, website
+- [x] Shared movable panel: county stats (flat + 3D) and place details
+- [x] Search bar in the header (places, counties, pages)
+- [x] Home page 3D: full NC scene (counties in 3D, finished graphics)
+- [x] Inter-Faith Food Shuttle pantries + mobile markets (43)
+- [x] MANNA FoodBank (125) + Food Bank of the Albemarle (8 of its list)
+- [ ] Second Harvest SE NC — site blocks downloads (Metrolina done)
+- [ ] Chapel Hill block groups — Census says the saved key is invalid (likely not activated yet)
+- [x] Planner "Feed a family" card + Drive here links (panel, 3D label, card)
+- [x] Show my location: list nearest food places (all categories) after permission
+- [x] Fix NC 3D glitching on home page (solid 3D)
+- [x] Show all distances in miles/feet (US units)
+- [x] Meals page: Show my location re-sorts the county list by distance (no popup list)
+- [x] Planner: replace ring with selected county as the service area
+- [ ] Opening hours from websites: 71 of ~587 filled; rest paused by Firecrawl rate limit
+- [x] PDF county report page (/report)
+- [x] Google Maps link on every 3D building
+- [ ] Chapel Hill neighborhoods (population, poverty, car ownership) in county panels — blocked: Census key not yet valid
+- [x] Planner 3D: Fayetteville + Wilmington areas with real buildings and map links
+- [x] Need map colors (population, poverty, car ownership) in planner
+- [ ] Next Firecrawl hours pass
+- [x] Shareable plan links + printable QR codes per county plan
+- [x] Thorough practical-use review of the 3D map
+- [x] No city buttons for Fayetteville/Wilmington/Charlotte

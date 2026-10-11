@@ -1,0 +1,188 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* PantryHelp "Daylight Glass" design system. All colors oklch. */
+
+@theme inline {
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+  --radius-2xl: 28px;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-evergreen: var(--evergreen);
+  --color-evergreen-80: var(--evergreen-80);
+  --color-evergreen-60: var(--evergreen-60);
+  --color-evergreen-40: var(--evergreen-40);
+  --color-leaf: var(--leaf);
+  --color-leaf-deep: var(--leaf-deep);
+  --color-leaf-tint: var(--leaf-tint);
+  --color-sky: var(--sky);
+  --color-sky-deep: var(--sky-deep);
+  --color-sky-tint: var(--sky-tint);
+  --color-sky-horizon: var(--sky-horizon);
+  --color-sky-zenith: var(--sky-zenith);
+  --color-aqua: var(--aqua);
+  --color-aqua-deep: var(--aqua-deep);
+  --color-aqua-tint: var(--aqua-tint);
+  --color-citrus: var(--citrus);
+  --color-citrus-deep: var(--citrus-deep);
+  --color-citrus-tint: var(--citrus-tint);
+  --color-tomato: var(--tomato);
+  --color-sun: var(--sun);
+  --color-glass: var(--glass);
+}
+
+:root {
+  --paper: oklch(0.977 0.008 114.2);
+  --paper-deep: oklch(0.953 0.015 119.1);
+  --evergreen: oklch(0.321 0.048 176);
+  --evergreen-80: oklch(0.433 0.051 176.9);
+  --evergreen-60: oklch(0.499 0.041 175.8);
+  --evergreen-40: oklch(0.694 0.03 176.6);
+  --leaf: oklch(0.686 0.156 131.5);
+  --leaf-deep: oklch(0.486 0.128 133.9);
+  --leaf-tint: oklch(0.945 0.039 126.1);
+  --sky: oklch(0.867 0.062 228.4);
+  --sky-deep: oklch(0.495 0.092 236.6);
+  --sky-tint: oklch(0.955 0.02 229);
+  --sky-horizon: oklch(0.968 0.016 227);
+  --sky-zenith: oklch(0.778 0.098 229.2);
+  --aqua: oklch(0.708 0.102 191.8);
+  --aqua-deep: oklch(0.459 0.075 187.4);
+  --aqua-tint: oklch(0.944 0.023 190.2);
+  --citrus: oklch(0.812 0.144 78.4);
+  --citrus-deep: oklch(0.472 0.101 71.5);
+  --citrus-tint: oklch(0.958 0.04 86.7);
+  --tomato: oklch(0.52 0.16 33.2);
+  --sun: oklch(0.934 0.065 82.7);
+  --white: oklch(1 0 0);
+  --glass: oklch(1 0 0 / 66%);
+
+  --radius: 14px;
+  --background: var(--paper);
+  --foreground: var(--evergreen);
+  --card: var(--white);
+  --card-foreground: var(--evergreen);
+  --popover: var(--white);
+  --popover-foreground: var(--evergreen);
+  --primary: var(--evergreen);
+  --primary-foreground: var(--paper);
+  --secondary: var(--paper-deep);
+  --secondary-foreground: var(--evergreen);
+  --muted: var(--paper-deep);
+  --muted-foreground: var(--evergreen-60);
+  --accent: var(--leaf-tint);
+  --accent-foreground: var(--leaf-deep);
+  --destructive: var(--tomato);
+  --destructive-foreground: var(--white);
+  --border: oklch(0.321 0.048 176 / 12%);
+  --input: oklch(0.321 0.048 176 / 18%);
+  --ring: var(--aqua);
+
+  --shadow-soft: 0 1px 2px oklch(0.321 0.048 176 / 6%), 0 8px 24px oklch(0.321 0.048 176 / 8%);
+  --shadow-lift: 0 2px 4px oklch(0.321 0.048 176 / 8%), 0 20px 48px oklch(0.321 0.048 176 / 14%);
+  --gradient-sky: linear-gradient(180deg, var(--sky-zenith) 0%, var(--sky) 45%, var(--sky-horizon) 100%);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+  html {
+    font-family: var(--font-sans);
+  }
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.025em;
+  }
+  :focus-visible {
+    outline: 2px solid var(--aqua);
+    outline-offset: 2px;
+  }
+}
+
+@utility glass {
+  background: var(--glass);
+  backdrop-filter: blur(18px) saturate(1.4);
+  -webkit-backdrop-filter: blur(18px) saturate(1.4);
+  border: 1px solid oklch(1 0 0 / 70%);
+  box-shadow: var(--shadow-lift), inset 0 1px 0 oklch(1 0 0 / 90%);
+  @media (prefers-reduced-transparency: reduce) {
+    background: var(--white);
+    backdrop-filter: none;
+  }
+}
+@utility shadow-soft {
+  box-shadow: var(--shadow-soft);
+}
+@utility shadow-lift {
+  box-shadow: var(--shadow-lift);
+}
+@utility bg-sky-gradient {
+  background: var(--gradient-sky);
+}
+@utility ease-calm {
+  transition-timing-function: var(--ease-out);
+}
+
+.maplibregl-ctrl-attrib {
+  font-size: 11px;
+}
+.maplibregl-popup-content {
+  border-radius: 14px !important;
+  padding: 12px 14px !important;
+  font-family: var(--font-sans);
+  color: var(--evergreen);
+  box-shadow: var(--shadow-lift) !important;
+}
+
+/* live location dot on the flat map */
+.ph-me {
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  background: var(--sky-deep, oklch(0.6 0.12 235));
+  border: 3px solid var(--card);
+  box-shadow: 0 0 0 6px color-mix(in oklab, var(--sky-deep, oklch(0.6 0.12 235)) 25%, transparent);
+  animation: ph-pulse 1.8s ease-out infinite;
+}
+@keyframes ph-pulse {
+  0% { box-shadow: 0 0 0 0 color-mix(in oklab, var(--sky-deep, oklch(0.6 0.12 235)) 45%, transparent); }
+  100% { box-shadow: 0 0 0 16px transparent; }
+}

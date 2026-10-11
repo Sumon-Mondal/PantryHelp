@@ -1,0 +1,96 @@
+[
+ {
+  "id": "acs-county",
+  "title": "ACS 2019-2023 5-year, all 100 NC counties (B01003, B11001, B17001, B08201, B22003 SNAP)",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT5Y2023.B22003?g=040XX00US37$0500000",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced"
+ },
+ {
+  "id": "ncdhhs-dss",
+  "title": "Local DSS directory (county offices taking Food and Nutrition Services / SNAP applications)",
+  "publisher": "N.C. Department of Health and Human Services",
+  "url": "https://www.ncdhhs.gov/local-dss-directory",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "Addresses geocoded with the U.S. Census geocoder. Counties not yet parsed are omitted, not invented."
+ },
+ {
+  "id": "fa-foodbanks",
+  "title": "North Carolina Feeding America member food banks",
+  "publisher": "Feeding America and each food bank",
+  "url": "https://www.feedingamerica.org/find-your-local-foodbank",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced"
+ },
+ {
+  "id": "fbcenc-foodfinder",
+  "title": "Food Finder: partner pantries and meal sites (34 counties)",
+  "publisher": "Food Bank of Central & Eastern North Carolina (Feeding America member)",
+  "url": "https://foodfinder.foodbankcenc.org/",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "Coordinates as published by the food bank. Shelters excluded; Orange County entries come from the county list instead."
+ },
+ {
+  "id": "shfb-nwnc",
+  "title": "Find Food agency locator (18 counties)",
+  "publisher": "Second Harvest Food Bank of Northwest NC (Feeding America member)",
+  "url": "https://secondharvestnwnc.org/find-food/",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "Coordinates as published. Shelters excluded."
+ },
+ {
+  "id": "ncdhhs-wic-directory",
+  "title": "WIC Local Agency Directory (clinic addresses)",
+  "publisher": "NC DHHS, Nutrition Services Branch",
+  "url": "https://www.ncdhhs.gov/documents/files/wic/wic-local-agency-directory/download",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "136 of 158 clinic rows placed with the U.S. Census Geocoder; 22 rows (mobile units, base clinics, unparseable addresses) not placed."
+ },
+ {
+  "id": "osm-chapel-hill",
+  "title": "Chapel Hill building footprints, streets, parks and woods (3D views)",
+  "publisher": "OpenStreetMap contributors (ODbL), via Overpass API",
+  "url": "https://www.openstreetmap.org/copyright",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "Building height from OSM height/levels tags where present (146 of 2,693); otherwise a typical height for the building type (estimated). Trees are decorative, placed inside OSM wooded areas."
+ },
+ {
+  "id": "ifs",
+  "title": "Inter-Faith Food Shuttle Find Food maps (pantries + mobile markets)",
+  "publisher": "Inter-Faith Food Shuttle",
+  "url": "https://foodshuttle.org/findfood/",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced"
+ },
+ {
+  "id": "manna-findfood",
+  "title": "MANNA FoodBank Find Food locator (Western NC pantries, meal sites, mobile markets)",
+  "publisher": "MANNA FoodBank",
+  "url": "https://www.mannafoodbank.org/find-food/",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "125 NC locations from the food bank's published locator; hours are not included in the feed."
+ },
+ {
+  "id": "fba-findfood",
+  "title": "Food Bank of the Albemarle Food Locator",
+  "publisher": "Food Bank of the Albemarle",
+  "url": "https://afoodbank.org/find-food/",
+  "retrievedAt": "2026-10-11",
+  "label": "sourced",
+  "notes": "Only 8 locations were returned by the shared locator; the full list was not available."
+ },
+ {
+  "id": "shm-findfood",
+  "title": "Second Harvest Food Bank of Metrolina \u2014 Find Food Near Me",
+  "publisher": "Second Harvest Food Bank of Metrolina",
+  "url": "https://www.secondharvestmetrolina.org/need-food/find-food-near-you",
+  "note": "186 North Carolina pantries and soup kitchens with coordinates and hours from the food bank's own finder (South Carolina sites left out)."
+ }
+]

@@ -1,0 +1,857 @@
+{
+ "nc-fbcenc-foodfinder-45": {
+  "hours": "Monday - Friday: 10:30 am - 12 pm; Saturday: 10 am - 12 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/grace-outreach-enrichment",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-49": {
+  "hours": "Saturday: 11 am - 12 pm, 2nd Saturday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/jewels-outreach-and-networking?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-50": {
+  "hours": "Wednesday: 10 am - 1 pm (1st and 2nd Wednesdays) | Also available by appointment",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/immanuel-temple-sda-community?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-56": {
+  "hours": "Wednesday: 10 am - 12 pm, 3rd Wednesday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/greater-refuge-temple?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-25": {
+  "hours": "Thursday: 10 am - 12 pm, 2nd and 4th Thursdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/god-s-city-of-refuge-inc?distance=&q=28570&fbclid=IwQ0xDSwNtkNtleHRuA2FlbQIxMAABHhsDhQ6XMbWzqV4uZ8QEDX1OhRknoux6q9EWlt8cR-wTfbpvs2nC5NCbHZYv_aem_pQyLCNQri__BaWavLxKiVw",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-31": {
+  "hours": "Every 3rd Saturday of the month from 7:30 AM - 8:30 AM EDT",
+  "sourceUrl": "https://www.findhelp.org/provider/saint-luke-united-methodist-church--laurinburg-nc/6123240496037888?postal=28352",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-65": {
+  "hours": "Saturday: 9 am - 10 am, 4th Saturday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/lake-waccamaw-food-ministry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-66": {
+  "hours": "Thursday: 4 pm - 6 pm (4th Thursday), Saturday: 10 am - 12 pm (2nd Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mount-calvary-ame-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-67": {
+  "hours": "Tuesday: 4 pm - 6 pm, Saturday: 10 am - 12 pm (3rd Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mom-and-pops-giving-closet?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-68": {
+  "hours": "Sunday: 3 pm - 4 pm (4th Sundays), Wednesday: 2 pm - 3 pm (3rd Wednesdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mission-in-action",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-70": {
+  "hours": "Tuesdays 2:00 PM - 5:00 PM, Fridays 11:00 AM - 1:00 PM, Sundays 10:30 AM - 1:00 PM",
+  "sourceUrl": "https://ampleharvest.org/food-pantries/iglesia-casa-del-alfarero-cda-inc-11331/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-71": {
+  "hours": "2nd and 4th Thursdays 5pm to 7pm.",
+  "sourceUrl": "https://www.homelessshelterdirectory.org/shelter/nc_love-of-christ-ministries",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-72": {
+  "hours": "Thursday: 2 pm - 5 pm (1st and 2nd Thursdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/living-word-church?distance=&lang=en&q=White%20oak",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-73": {
+  "hours": "Sunday: 1 pm - 4 pm (3rd Sunday); Monday: 3 pm - 5 pm (1st Monday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/living-stones",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-107": {
+  "hours": "2nd and 4th Thursday 4pm - 6pm.",
+  "sourceUrl": "https://www.homelessshelterdirectory.org/foodbank/nc_sonrise-independent-baptist",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-108": {
+  "hours": "Thursday: 10 am - 11 am, 2nd and 4th Thursdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/senior-home-care-services-inc?q=27834&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-111": {
+  "hours": "Monday and Tuesday 10:00am - 2:00pm, Thursday and Friday 10:00am - 2:00pm, Saturday 9:00am - 3:00pm",
+  "sourceUrl": "https://www.foodpantries.org/li/richlands_community_outreach_ministry_28574",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-156": {
+  "hours": "Second and third Friday of each month, 4:00 PM - 6:00 PM EDT",
+  "sourceUrl": "https://www.findhelp.org/provider/union-missionary-baptist-church--wilmington-nc/6316098406318080?postal=28401",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-158": {
+  "hours": "1st and 3rd Saturday of the month 9:00am - 12:00pm",
+  "sourceUrl": "https://northcarolinafoodbanks.org/food-bank/living-waters-ministries-of-pinetops/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-162": {
+  "hours": "Wednesday: 10 am - 11:15 am (1st Wednesday), Saturday: 10 am - 11:15 am (3rd Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/triumph-missionary-baptist-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-163": {
+  "hours": "Thursday: 10 am - 12 pm, 2nd and 4th Thursdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mount-moriah-community-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-164": {
+  "hours": "Monday: 1 pm - 4 pm (1st and 3rd Mondays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/liberty-baptist-church-of-wilmington",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-184": {
+  "hours": "Wednesday: 9:30 am - 10:30 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/pamlico-county-fishes-loaves-28571?distance=&q=TYRELL%20COUNTY",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-26": {
+  "hours": "Wednesday: 1:30 pm - 5 pm; Thursday: 1:30 pm - 5 pm; 2nd and 4th Thursdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/good-news-buenas-nuevas",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-34": {
+  "hours": "Sunday 17:00 - 20:00, Tuesday 19:30 - 21:00, Thursday 19:30 - 21:00, Friday 16:00 - 18:00",
+  "sourceUrl": "https://www.waze.com/live-map/directions/us/nc/wilmington/iglesia-vision-3d-pentecostes?to=place.ChIJpba1TRP1qYkRUNfpUOvfx0U",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-36": {
+  "hours": "Monday 13:00\u201316:00, Wednesday 13:00\u201316:00",
+  "sourceUrl": "https://feedam.org/resource/8981",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-37": {
+  "hours": "Between 3:00 PM and 6:00 PM on Monday to Thursday",
+  "sourceUrl": "https://www.freefood.org/l/nc_27843_hobgood-citizens-group",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-38": {
+  "hours": "Saturday: 7 am - 8:30 am, 2nd and 4th Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/high-falls-united-methodist?distance=&q=Bennett%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-40": {
+  "hours": "Thursday: 9:30 am - 10:30 am (4th Thursday), Friday: 9:30 am - 10:30 am (4th Friday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/greater-st-peter?distance=&q=Kinston%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-41": {
+  "hours": "1st & 3rd Saturday of each month from 9:00 AM - 12:00 PM EDT",
+  "sourceUrl": "https://www.findhelp.org/provider/greater-ransom-way-of-the-cross-temple--henderson-nc/5469996526600192?postal=27537",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-44": {
+  "hours": "Saturday: 12 pm - 1:30 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/grace-within-transitions-foundation?distance=&q=TYRELL%20COUNTY",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-47": {
+  "hours": "Saturday: 10 am - 12 pm, 3rd Saturday; Also available by appointment -- please call",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/kingdom-care-inc?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-48": {
+  "hours": "3rd Sat 10am-12pm",
+  "sourceUrl": "http://www.networks.whyhunger.org/organisation/39452",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-53": {
+  "hours": "Thursday: 9 am - 11 am (Every other Thursday - call for schedule)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/helping-hands-st-stanislaus-catholic-church?distance=&q=28429",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-57": {
+  "hours": "Friday: 10 am - 11 am 1st Friday; By appointment Monday through Friday 10:00 AM to 2:00 PM",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/greater-joy-missionary-baptist-north",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-61": {
+  "hours": "Saturday: 9 am - 11 am, 2nd and 4th Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-peter-s-development-center?q=27834&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-64": {
+  "hours": "Tuesday: 1 pm - 2 pm; 2nd and 4th Tuesdays (drive thru)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/the-memorial-baptist-church?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-75": {
+  "hours": "Saturday: 9:00 AM - 11:00 AM EDT",
+  "sourceUrl": "https://www.findhelp.org/food/food-pantry--stacy-nc?postal=28581&ref=rel_svc_tag&rel_svc_tag_parent=food+delivery",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-77": {
+  "hours": "Wednesday: 12 pm - 2 pm, 2nd and 4th Wednesdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/lakes-chapel-missionary-baptist-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-78": {
+  "hours": "Our services are back inside on the first thru fourth Sundays at 9am.",
+  "sourceUrl": "https://nlomchurch.org/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-79": {
+  "hours": "Saturday: 12 pm - 3 pm, 2nd Saturday, Every Other Month - call ahead to confirm operating days/hours.",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/new-life-fellowship-church?distance=&q=Sanford%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-81": {
+  "hours": "Wednesday: 9 am - 12 pm, 2nd and 4th Wednesdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/nc-seeds-of-love",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-83": {
+  "hours": "Saturday: 10 am - 12 pm (2nd and 3rd Saturdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mt-olive-ame-church-helping-hand-food-pantry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-84": {
+  "hours": "Saturday: 11 am - 12 pm, 2nd and 4th Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mount-zion-ucc-rockingham?distance=&q=richmond%20county",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-85": {
+  "hours": "Thursday: 10 am - 12 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/southern-mission-ministries?distance=&q=richmond%20county",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-87": {
+  "hours": "Thursdays 9:30-11:45 a.m. & 2:00-4:30 p.m.",
+  "sourceUrl": "https://www.centenaryumcsmithfield.org/smithfield-area-ministries-food-closet",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-89": {
+  "hours": "Friday: 2:00 PM - 4:00 PM EDT",
+  "sourceUrl": "https://www.findhelp.org/save-the-family-church-ministries,-inc.--la-grange-nc--food-pantry/4915199550291968?postal=28551",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-90": {
+  "hours": "M-F: 8:30 - 11 AM",
+  "sourceUrl": "https://www.sandhillscoalition.org/get-help",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-91": {
+  "hours": "Sunday - Saturday: 5 pm - 8 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/salvation-army-raleigh-raleigh",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-94": {
+  "hours": "Sunday - Saturday: 12 am - 11:59 pm, Open 24/7",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/the-healing-place-of-new-hanover-county-inc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-96": {
+  "hours": "Saturday: 9 am - 12 pm, 4th Saturday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mount-calvary-grace-and-mercy-street-ministry?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-99": {
+  "hours": "Wednesday: 2 pm - 3 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-joseph-ame-church?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-100": {
+  "hours": "Friday: 8:30 AM - 10:00 AM EDT; Closed all other days",
+  "sourceUrl": "https://www.findhelp.org/food/all--weldon-nc?postal=27890",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-101": {
+  "hours": "Monday: 9 am - 11 am, Thursday: 9 am - 11 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-james-methodist-church?distance=&q=28570&fbclid=IwQ0xDSwNtkNtleHRuA2FlbQIxMAABHhsDhQ6XMbWzqV4uZ8QEDX1OhRknoux6q9EWlt8cR-wTfbpvs2nC5NCbHZYv_aem_pQyLCNQri__BaWavLxKiVw",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-103": {
+  "hours": "Friday: 9 am - 10:30 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-ann-catholic-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-104": {
+  "hours": "Saturday: 11 am - 1 pm, 1st and 3rd Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/sure-promise-christian-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-105": {
+  "hours": "Wednesday: 9 am - 12 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/russell-memorial-cme-church?q=27701&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-118": {
+  "hours": "Wednesday: 2 pm - 5 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/recruiters-for-christ-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-119": {
+  "hours": "Saturday: 10 am - 12 pm; 1st and 3rd Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/salem-united-methodist-church?distance=&q=TYRELL%20COUNTY",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-122": {
+  "hours": "Tuesday: 10 am - 12 pm; Every other Thursday - call for schedule",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-peter-catholic-church?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-123": {
+  "hours": "Thursday: 2 pm - 3 pm, 2nd and 4th Thursdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/salvation-army-greenville?q=27834&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-124": {
+  "hours": "Monday-Thursday 12:30 pm to 2:30 pm; Friday 10:30 am \u2013 1:00 pm (Emergency Boxes only)",
+  "sourceUrl": "https://pendercountychristianservices.com/?page_id=325",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-126": {
+  "hours": "Tuesday: 11:30 am - 12:30 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/paradise-christian-center?q=27834&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-127": {
+  "hours": "3rd Thursday of every month from 6:30PM to 8:00PM",
+  "sourceUrl": "https://showersofblessingcc.org/food-pantry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-128": {
+  "hours": "Wednesday: 9 am - 11 am (1st and 3rd Wednesdays), Saturday: 9 am - 11 am (4th Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/solid-rock-ministry-international-inc?q=27529",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-129": {
+  "hours": "**Sunday:** 1:30 pm - 3 pm\nMonday - Friday 12-5pm by appointment only",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/spirit-truth-worship-center?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-130": {
+  "hours": "Contact for hours of operation",
+  "sourceUrl": "https://fhli.resources.uniteus.io/program/358fd8e7-5193-4dde-9490-fe176b88bead/2c826684-3667-495f-9572-34c9550c418b?backToResults=true&locale=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-132": {
+  "hours": "Saturday: 11 am - 12:30 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/state-street-community-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-133": {
+  "hours": "Friday: 5 pm - 7 pm 4th Friday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/staton-mill-road-community?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-134": {
+  "hours": "Tuesday: 9 am - 12 pm; Thursday: 9:30 am - 12:30 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/oak-grove-ua-free-will-baptist?q=27701&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-135": {
+  "hours": "The 3rd Saturday 9:00 am - 12:00 pm",
+  "sourceUrl": "https://www.freefood.org/l/nc_27893_tabernacle-of-god-community-church-hearts-2-hands-food-pantry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-58": {
+  "hours": "Monday: 12 pm - 2 pm, 2nd and 4th Mondays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/greater-joy-missionary-baptist",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-59": {
+  "hours": "Sunday: 12:30 pm - 1:30 pm; Saturday: 12 pm - 1 pm; 3rd Saturday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/kingdom-christ-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-142": {
+  "hours": "Wednesday: 10 am - 12 pm (3rd Wednesday), Saturday: 10 am - 12 pm (1st Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/macedonia-church-of-lenoir-county",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-143": {
+  "hours": "Thursday: 2 pm - 4 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/mount-zion-christian-church?distance=&lang=en&q=27536",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-145": {
+  "hours": "Food Bank Giveaway Every 3rd Saturday at 12 Noon.",
+  "sourceUrl": "http://www.wilsonchapelfwb.org/home.html",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-152": {
+  "hours": "First Saturday of each month from 9-10:30 a.m.; First and third Thursdays of each month from 9-10:30 a.m.",
+  "sourceUrl": "https://www.warrenrecord.com/news/article_77c92389-7bc7-46b6-8999-285e30addefa.html",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-153": {
+  "hours": "Mon, Wed, Fri: 9 AM \u2013 3 PM ET",
+  "sourceUrl": "https://www.serve.love/resources/food-pantries/warrenton-nc/loaves-and-fishes-ministries-warren-yzvzx834/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-155": {
+  "hours": "The 2nd & 4th Tuesday of the month 11:00 am - 1:30 pm",
+  "sourceUrl": "https://www.foodpantries.org/li/nc_27822_vaughns-chapel-m-b-church-learn-the-word-outreach-ministries-food-pantry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-167": {
+  "hours": "M 10am-12:00",
+  "sourceUrl": "https://www.homelessshelterdirectory.org/shelter/nc_trinity-missionary-baptist",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-168": {
+  "hours": "Tuesday: 9 am - 1 pm; Saturday: 9 am - 1 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/jt-kerr-memorial-baptist?distance=15mi&lang=en&q=28460",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-171": {
+  "hours": "Tuesday: 9:30 am - 11 am (4th Tuesday), Thursday: 9:30 am - 11 am (3rd Thursday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/new-home-and-durham-missionary-baptist-association?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-172": {
+  "hours": "Mondays and Wednesdays between 10:00 AM and 1:00 PM; second and third Saturday of each month from 10:00 AM until 1:00 PM.",
+  "sourceUrl": "https://triareaministry.com/get-assistance/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-173": {
+  "hours": "Friday: 9 am - 12 pm (2nd Friday); Saturday: 10 am - 12 pm (4th Saturday, by appointment, please call)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/new-hope-granville-missionary-baptist-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-174": {
+  "hours": "Friday: 12 pm - 3 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/iglesia-tabernaculo-de-restauracion",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-175": {
+  "hours": "Wednesday: 8:30 am - 9:30 am (1st, 3rd, and 4th Wednesdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/three-in-one-family-center-28501?distance=&q=Kinston%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-176": {
+  "hours": "Thursday: 11 am - 12 pm, 3rd Thursday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/three-in-one-family-center",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-178": {
+  "hours": "Closed until 12 pm; Sun 12 pm - 2 pm; Mon Closed; Tue 7:30 pm - 9 pm; Wed Closed; Thu 8 pm - 9 pm; Fri 7:30 pm - 9 pm; Sat Closed",
+  "sourceUrl": "https://www.mapquest.com/us/north-carolina/iglesia-de-dios-pentecostal-m-i-467397316",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-179": {
+  "hours": "Thursday 12:00\u201314:00",
+  "sourceUrl": "https://feedam.org/resource/181572",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-180": {
+  "hours": "1st and 5th Sunday at 3p.",
+  "sourceUrl": "https://www.homelessshelterdirectory.org/shelter/nc_the-way-of-the-cross-outreach",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-183": {
+  "hours": "Open each Thursday evening from 5:00 pm-7:00 pm.",
+  "sourceUrl": "https://www.wendellumc.org/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-187": {
+  "hours": "Monday - Thursday: 10:30 am - 11:30 am; Pantry hours: 1st Wednesday 3PM",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/new-zion-ame-zion-church?distance=&q=Bennett%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-188": {
+  "hours": "Ongoing every week, with specific volunteer needs on Mondays for food pickup and Tuesdays and Wednesdays for a couple of hours, usually in the morning.",
+  "sourceUrl": "https://www.justserve.org/projects/d7aad627-5a1b-4a01-a2b0-6dcb1ad5774b",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-189": {
+  "hours": "M-W, F 10:00 AM - 12:00 PM, 1:00 PM to 2:00 PM",
+  "sourceUrl": "https://havelockfoodpantry.weebly.com/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-190": {
+  "hours": "Every Wednesday from 12p-6p and emergencies.",
+  "sourceUrl": "https://www.homelessshelterdirectory.org/shelter/nc_twilight-missionary-baptist",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-191": {
+  "hours": "Tuesday: 1 pm - 2 pm, 2nd Tuesday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/united-solid-rock-faith-ministries",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-192": {
+  "hours": "Tuesday: 10:30 am - 11:30 am (2nd and 4th Tuesdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/vass-community-food-pantry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-195": {
+  "hours": "Lunes: 9 am - 12 pm, Mi\u00e9rcoles: 9 am - 12 pm, Viernes: 9 am - 12 pm, S\u00e1bado: 9 am - 12 pm (1.\u00ba y 3.\u00ba s\u00e1bados)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/a-touch-of-the-father-s-love-inc?lang=es",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-196": {
+  "hours": "Every second and third Saturday from 1 p.m. to 3 p.m.",
+  "sourceUrl": "https://www.findhelp.org/new-providence-missionary-baptist-church--fuquay-varina-nc--food-pantry-operation/5700491758534656?postal=27511",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-197": {
+  "hours": "Saturday: 11 am - 1 pm, 2nd Saturday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/one-love-ministries?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-200": {
+  "hours": "First and Third Wednesdays of the month from 3:00pm to 4:00pm",
+  "sourceUrl": "https://www.foodpantries.org/li/nc_27569_princeton-united-methodist-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-201": {
+  "hours": "As Needed",
+  "sourceUrl": "https://www.foodpantries.org/li/the_power_of_praise_tabernacle_of_deliverance_ministries_inc_27504",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-204": {
+  "hours": "Saturday: 11 am - 1 pm (2nd Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/white-rock-baptist-church?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-208": {
+  "hours": "Thursday: 9 am - 12 pm, 4th Thursday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/woods-chapel-uafwb-church?distance=&q=wayne%20county%2C%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-209": {
+  "hours": "the third Saturday 9:00am - 12:00pm for more information, please call.",
+  "sourceUrl": "https://northcarolinafoodbanks.org/food-bank/word-of-god-christian-center/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-210": {
+  "hours": "Saturday: 9 am - 12 pm, 2nd and 4th Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/zion-christian-center",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-212": {
+  "hours": "Monday: 10 am - 11 am, Wednesday: 10 am - 11 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/folkstone-original-free-will?distance=15mi&lang=en&q=28460",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-213": {
+  "hours": "Tuesday: 11 am - 1 pm (1st, 2nd, and 3rd Tuesdays); Thursday: 11 am - 1 pm (1st, 2nd, and 3rd Thursdays); Friday: 5:30 pm - 7 pm (1st Friday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/pamlico-county-fishes-loaves?distance=&q=TYRELL%20COUNTY",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-218": {
+  "hours": "Tuesday: 12:00p.m. \u2013 6:00p.m.; Wednesday: 1:00p.m. \u2013 7:00p.m.; Friday: 10:00a.m. \u2013 4:00p.m.; Saturday: 12:00p.m. \u2013 4:00p.m.",
+  "sourceUrl": "https://packessentials.dasa.ncsu.edu/feed-the-pack/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-220": {
+  "hours": "Every 2nd and 4th Saturday of the month, Tuesday and Thursday: 10:00 AM - 12:00 PM EDT",
+  "sourceUrl": "https://www.findhelp.org/faith-gospel-tabernacle-united-holy-church--durham-nc--food-pantry-and-clothes-closet/5146049088061440?postal=27514",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-222": {
+  "hours": "Wednesdays from 2-4pm",
+  "sourceUrl": "https://www.emanuelfoodpantry.org/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-226": {
+  "hours": "Friday: 10 am - 11:30 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/dream-seeker-church-of-the-apostolic-revival-intl?q=27701&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-228": {
+  "hours": "Every other Wednesday from 8:00 AM to 11:00 AM",
+  "sourceUrl": "https://northcarolinafoodbanks.org/food-bank/west-end-united-methodist-church-food-pantry/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-229": {
+  "hours": "Every 2nd and 4th Saturday of the month from 1:00 PM - 3:00 PM EDT",
+  "sourceUrl": "https://www.findhelp.org/williams-grove-baptist-church--raleigh-nc--food-pantry/5181682250678272?postal=27617",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-231": {
+  "hours": "3rd Saturday of each month from 10:00 AM to 11:00 AM. Registration starts at 7:30 AM.",
+  "sourceUrl": "https://www.northhavenministries.org/whatwedo",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-232": {
+  "hours": "Monday: 8:00 AM - 10:30 AM EDT; 1st and 4th Monday of each month",
+  "sourceUrl": "https://www.findhelp.org/food/all--raleigh-nc?postal=27615&cursor=60&limit=10",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-235": {
+  "hours": "Monday, Tuesday, Friday from 10:00 am until 1:00 pm; Wednesday from 8:00 am until 1:00 pm; Thursday from 8:00 am until 1:00 pm.",
+  "sourceUrl": "https://www.foodhelpline.org/resources/community-helpers-service-center-inc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-238": {
+  "hours": "Call for Appointment",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/communities-in-partnership?q=durham&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-239": {
+  "hours": "Monday: 1:00 PM - 3:00 PM EDT, Tuesday: 1:00 PM - 3:00 PM EDT, Wednesday: 1:00 PM - 3:00 PM EDT, Thursday: 1:00 PM - 3:00 PM EDT, Friday: 1:00 PM - 3:00 PM EDT, Saturday: Closed, Sunday: Closed",
+  "sourceUrl": "https://www.findhelp.org/Clayton-Area-Ministries-----Utility-and-Food-Assistance/6630526211588096",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-240": {
+  "hours": "Wednesday: 9 am - 11 am, 2nd and 4th Wednesdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-john-s-emergency-food",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-242": {
+  "hours": "Saturday: 8 am - 10 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/christ-memorial-church?distance=&q=richmond%20county",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-244": {
+  "hours": "Tuesday: 3:30 pm - 5:30 pm (2nd Tuesday), Thursday: 3:30 pm - 5:30 pm (4th Thursday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-james-ame-church?distance=&q=28429",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-245": {
+  "hours": "1st Wednesday of Each Month from 11:00 am \u2013 1:00 pm; 3rd Wednesday of Each Month from 1:00 pm \u2013 3:00 pm (Contact specific locations for additional details on service hours).",
+  "sourceUrl": "https://www.catholiccharitiesraleigh.org/locations/tar-river-region/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-246": {
+  "hours": "2nd and 4th Saturdays each month, 9:00 am until 10:00 am",
+  "sourceUrl": "https://food-banks.org/detail/rougemont_food_pantry_rougemont_nc.html",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-247": {
+  "hours": "Thurs 9am-12pm, closed in summer.",
+  "sourceUrl": "https://www.homelessshelterdirectory.org/shelter/nc_care-and-share-inc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-248": {
+  "hours": "Saturday: 8 am - 10 am (1st and 3rd Saturdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/robbins-area-christian?distance=&q=Bennett%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-249": {
+  "hours": "Tue: 12:00 PM - 4:00 PM, Wed: 6:00 PM - 9:00 PM, Sat: 9:00 AM - 2:00 PM",
+  "sourceUrl": "https://fhli.resources.uniteus.io/program/07df8c37-7b52-47fb-8540-d711744906de/92d90b44-0884-468c-b7ad-c438179a4db7?backToResults=true&locale=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-252": {
+  "hours": "Tuesday: 10 am - 12 pm, 3rd Tuesday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/renewal-place",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-254": {
+  "hours": "Saturday: 11 am - 12 pm; Sunday: 11 am - 12 pm; 3rd Saturday: 2-5 pm; Please call ahead to confirm Saturday/Sunday morning distributions",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/building-bridges-without-limits",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-256": {
+  "hours": "Tuesday: 10 am - 12 pm, Thursday: 12 pm - 4 pm, Saturday: 11 am - 12 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/bread-of-life-ministries?distance=&q=Sanford%2C%20NC",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-257": {
+  "hours": "Saturday: 9:00 AM - 11:00 AM EDT",
+  "sourceUrl": "https://www.findhelp.org/provider/richland-creek-community-church--wake-forest-nc/4513140845051904?postal=27587",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-258": {
+  "hours": "Wednesday: 1 pm - 4 pm (1st Wednesday), Thursday: 1 pm - 4 pm (2nd and 4th Thursdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/rock-ministry-inc?distance=&lang=en&q=White%20oak",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-260": {
+  "hours": "Tuesday: 11 am - 12 pm (1st, 2nd, and 4th Tuesdays), Friday: 11 am - 12 pm, Outdoor pavilion open 24/7",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/blessings-inc-saint-paul-presbyterian-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-261": {
+  "hours": "Weekday 4 19:00:00 - 20:00:00",
+  "sourceUrl": "https://northcarolinafoodbanks.org/food-bank/bethlehem-baptist-church/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-262": {
+  "hours": "Wednesday: 9 am - 11 am (1st and 3rd Wednesdays)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/benson-area-ministerial",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-263": {
+  "hours": "Friday: 11 am - 12 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/belton-creek-baptist-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-264": {
+  "hours": "Mon-Fri 8am-3pm",
+  "sourceUrl": "http://www.networks.whyhunger.org/organisation/39489",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-265": {
+  "hours": "Saturday: 2 pm - 4 pm, Every other Saturday - Call for Schedule",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/beach-christian-recovery",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-268": {
+  "hours": "Thursday: 8 am - 9 am, Saturday: 8 am - 9 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/armor-of-god-christian-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-269": {
+  "hours": "Friday: 9 am - 10 am, 4th Friday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/antioch-united-holy-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-270": {
+  "hours": "Every month on the 2nd Wednesday, 4:00 pm\u20137:00 pm; also open this Wednesday, 4:00 pm\u20137:00 pm; closed November 11th (Veterans Day), please call ahead.",
+  "sourceUrl": "https://www.foodhelpline.org/resources/antioch-community-outreach-inc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-271": {
+  "hours": "Sunday: 1:15 pm - 3:30 pm (1st and 3rd Sundays), Friday: 1 pm - 3 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/an-nissa-2?q=27834&lang=en",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-272": {
+  "hours": "Tue 10:30 AM \u2013 12 PM",
+  "sourceUrl": "https://www.serve.love/resources/food-pantries/angier-nc/angier-area-food-pantry-re8brimp/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-273": {
+  "hours": "Monday: 8:30 am - 9:30 am, 1st Monday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/alpha-and-omega-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-274": {
+  "hours": "Saturday: 8:45 am - 9:30 am, 2nd and 4th Saturdays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/saint-james-united-methodist?distance=&q=greenville%20nc",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-275": {
+  "hours": "Delivery only around noon every Tuesday, and every Saturday. For emergency assistance outside of these delivery hours, please call for pick up information.",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/lakeside-lutheran-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-276": {
+  "hours": "4th Tuesday of each month, 11:00am",
+  "sourceUrl": "https://ecuhealthib.staywellsolutionsonline.com/Bedside/22,838",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-278": {
+  "hours": "Fridays 1pm to 3pm",
+  "sourceUrl": "https://albc.org/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-279": {
+  "hours": "Tuesday: 6 pm - 7 pm (1st and 3rd Tuesdays), Open Saturdays for emergencies",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/a-touch-from-above-faith",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-280": {
+  "hours": "Thursday: 8:30 am - 9:30 am",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/wildwood-presbyterian-church?distance=&q=28570&fbclid=IwQ0xDSwNtkNtleHRuA2FlbQIxMAABHhsDhQ6XMbWzqV4uZ8QEDX1OhRknoux6q9EWlt8cR-wTfbpvs2nC5NCbHZYv_aem_pQyLCNQri__BaWavLxKiVw",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-281": {
+  "hours": "Monday - Friday: 10 am - 2 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/a-better-chance-a-better-community",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-283": {
+  "hours": "Wed 10am-12pm",
+  "sourceUrl": "https://networks.whyhunger.org/organisation/39435",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-284": {
+  "hours": "Wed 10am-1am",
+  "sourceUrl": "https://networks.whyhunger.org/organisation/39414",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-285": {
+  "hours": "Food giveaway every Friday from 1:00pm to 6:00pm. TEFAP FOOD DISTRIBUTION: 1ST FRIDAY. REGULAR FOOD DISTRIBUTION: 2ND, 3RD, 4TH & 5TH FRIDAY. FRESH PRODUCE: 1ST, 2ND & 3RD FRIDAY.",
+  "sourceUrl": "https://wordoftruthanointedministries.org/food_pantry",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-286": {
+  "hours": "Sat, November 14th (next month) 8:30 am\u201310:00 am; Sat, December 12th (in 2 months) 8:30 am\u201310:00 am; Sat, January 9th (in 3 months) 8:30 am\u201310:00 am; every month on the 2nd Saturday 8:30 am\u201310:00 am",
+  "sourceUrl": "https://www.foodhelpline.org/resources/word-of-god-fellowship-outreach",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-287": {
+  "hours": "Thursday: 12 pm - 2 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/helping-hands-of-hamlet?distance=&q=richmond%20county",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-288": {
+  "hours": "Tuesday - Wednesday: 11 am - 1:30 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/healing-with-caare",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-289": {
+  "hours": "1st Tue., 8:30 am-11:30 am",
+  "sourceUrl": "https://www.handsontriangle.org/need/detail/?need_id=572142",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-290": {
+  "hours": "Monday: 2 pm - 3:30 pm, 1st and 3rd Mondays",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/tabernacle-baptist-church",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-291": {
+  "hours": "Wednesday: 9:30 AM - 10:30 AM EDT",
+  "sourceUrl": "https://www.findhelp.org/provider/obedience-to-the-word-church-%2528ottw%2529--durham-nc/6105188600971264?postal=27703",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-292": {
+  "hours": "Friday: 5:30 pm - 7 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/new-freedom-christian-fellowship",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-293": {
+  "hours": "Monday - Saturday: 11 am - 3 pm; Thursday: 5 pm - 7 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/dorcas-ministries",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-297": {
+  "hours": "Weekday 3 15:00:00 - 19:00:00 , Weekday 4 10:00:00 - 14:00:00",
+  "sourceUrl": "https://northcarolinafoodbanks.org/food-bank/umoja-central-sda-church/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-299": {
+  "hours": "Monday, Wednesday and Friday afternoons from 1:00-4:00 pm from November 10th-21st.",
+  "sourceUrl": "https://www.pray.org/event/raleigh-dream-center-snap-distribution-help/2025-11-21/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-306": {
+  "hours": "Last Friday of each month from 5:00 to 7:00 p.m.",
+  "sourceUrl": "https://northcarolinafoodbanks.org/food-bank/oak-grove-community-food-pantry/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-308": {
+  "hours": "Wednesdays 9:00 AM - 12:00 PM, Thursdays 9:00 AM - 12:00 PM, except holidays",
+  "sourceUrl": "https://ampleharvest.org/food-pantries/care-and-share-of-franklin-county-6724/",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-310": {
+  "hours": "Saturday: 10 am - 12 pm (3rd Saturday)",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/the-ship-outreach-at-storehouse-ministries?distance=&q=TYRELL%20COUNTY",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-311": {
+  "hours": "Tuesday: 10 am - 11 am, 2nd Tuesday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/salvation-army-jacksonville",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-313": {
+  "hours": "1st Thursday of the month 1:00pm - 3:00pm",
+  "sourceUrl": "https://www.foodpantries.org/li/the_anointed_ones_church_28513",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-314": {
+  "hours": "Tuesday - Thursday: 9:30 am - 12:30 pm",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/our-daily-bread-christian-food?distance=&q=richmond%20county",
+  "checkedAt": "2026-10-11"
+ },
+ "nc-fbcenc-foodfinder-316": {
+  "hours": "Tuesday: 11 am - 12 pm, 2nd Tuesday",
+  "sourceUrl": "https://foodfinder.foodbankcenc.org/locations/ivory-hill-baptist-church",
+  "checkedAt": "2026-10-11"
+ }
+}

@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "sdk_version": "3.0.5",
+  "path": "/mcp",
+  "auth": {
+    "type": "none"
+  },
+  "mcp": {
+    "server": {
+      "name": "my-weapp-companion",
+      "version": "0.1.0",
+      "title": "My Weapp Companion"
+    },
+    "tools": [
+      {
+        "name": "search_food_places",
+        "title": "Search food help places",
+        "description": "Find North Carolina food pantries, church ministries, meal sites, food banks, SNAP and WIC offices by text, county, type, or distance from a point.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "query": {
+              "description": "Words to match in name or address, e.g. 'baptist durham' or '27516'.",
+              "type": "string"
+            },
+            "county": {
+              "description": "NC county name, e.g. 'Orange'.",
+              "type": "string"
+            },
+            "category": {
+              "type": "string",
+              "enum": [
+                "pantry",
+                "ministry",
+                "snap-office",
+                "food-bank",
+                "wic-office",
+                "meal-site"
+              ]
+            },
+            "lat": {
+              "description": "Latitude to sort by distance from.",
+              "type": "number"
+            },
+            "lng": {
+              "description": "Longitude to sort by distance from.",
+              "type": "number"
+            },
+            "limit": {
+              "description": "Max results (default 10).",
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 50
+            }
+          },
+          "additionalProperties": false
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "get_county_stats",
+        "title": "Get NC county food access stats",
+        "description": "Return Census ACS 2019–2023 population, poverty, car ownership and SNAP figures plus the count of food help places for one North Carolina county.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "county": {
+              "type": "string",
+              "minLength": 1,
+              "description": "County name like 'Durham' or 5-digit FIPS like '37063'."
+            }
+          },
+          "required": [
+            "county"
+          ],
+          "additionalProperties": false
+        },
+        "outputSchema": null
+      }
+    ]
+  }
+}
